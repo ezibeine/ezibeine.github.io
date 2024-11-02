@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezibeine.github.io/IqJ/sitemap_index.txt
+Sitemap: https://ezibeine.github.io/RDb/sitemap_index.txt
+Sitemap: https://ezibeine.github.io/btc/sitemap_index.txt
+Sitemap: https://ezibeine.github.io/dXj/sitemap_index.txt
